@@ -1,5 +1,9 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+## 21343045-Farraz Hadyan
+1. Inheritance
+atau pewarisan dalam pemrograman berorientasi objek  adalah suatu teknik dimana suatu class dapat mewarisi  attribut maupun method-method yang dimilikinya pada class lain (disebut subclass).
+Pewarisan adalah sifat dalam pemrograman berorientasi objek yang memungkinkan programmer untuk membuat kelas baru yang lebih spesifik ataupun di perluas dari kelas yang telah ada tanpa harus membuat ulang attribut maupun method yang sudah dideklarasikan pada class sebelumnya. (kecuali menggunakan modifier private).
+Untuk menggunakan Inheritance / pewarisan, menggunakan kata kunci yaitu “extend”.
+Suatu Subclass juga dapat memanggil constructor yang terdapat di superclass menggunakan kata kunci “super”. Kata kunci super juga dapat digunakan untuk merujuk pada anggota dari superclass, hal ini sama dengan penggunaan  referensi “this”.
+
+2. Encapsulation
+(Enkapsulasi) adalah pembungkus, pembungkus disini dimaksudkan untuk menjaga suatu proses program agar tidak dapat diakses secara sembarangan oleh program lain. Dalam Java, dasar enkapsulasi adalah class. Anda membuat suatu class  yang menyatakan bahwa variable atau method sebuah class  tidak dapat diakses oleh class lain dengan menjadikan class tersebut private, atau menjadikan class  tersebut protected yaitu hanya bisa diakses oleh turunannya, atau menjadikan class tersebut public yaitu bisa diakses oleh sembarang class.
