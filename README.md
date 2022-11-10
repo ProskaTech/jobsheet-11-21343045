@@ -1,8 +1,11 @@
 ## 21343045-Farraz Hadyan
 1. Inheritance
 Inheritance atau pewarisan dalam pemrograman berorientasi objek  adalah suatu teknik dimana suatu class dapat mewarisi  attribut maupun method-method yang dimilikinya pada class lain (disebut subclass).
+
 Pewarisan adalah sifat dalam pemrograman berorientasi objek yang memungkinkan programmer untuk membuat kelas baru yang lebih spesifik ataupun di perluas dari kelas yang telah ada tanpa harus membuat ulang attribut maupun method yang sudah dideklarasikan pada class sebelumnya. (kecuali menggunakan modifier private).
+
 Untuk menggunakan Inheritance / pewarisan, menggunakan kata kunci yaitu “extend”.
+
 Suatu Subclass juga dapat memanggil constructor yang terdapat di superclass menggunakan kata kunci “super”. Kata kunci super juga dapat digunakan untuk merujuk pada anggota dari superclass, hal ini sama dengan penggunaan  referensi “this”.
 
 2. Encapsulation
